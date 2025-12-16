@@ -19,7 +19,7 @@ A simple **Unreal Engine** project showcasing a basic **shooting range** experie
 
 ---
 
-## 🧩 Implemented Systems & Components
+## Implemented Systems & Components
 
 This project includes the following implemented components:
 
